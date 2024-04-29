@@ -1,0 +1,19 @@
+.calculator {
+    border: 2px solid rgb(254, 3, 3);
+    width: 250px;
+    border-radius: 15px  ;
+    margin: 120px;
+    background-color: rgb(79, 85, 85);
+    
+  }
+  .h1
+  {
+    color: blanchedalmond;
+    text-align: center;
+    background-color: rgb(7, 55, 96);
+    border: 2px solid brown;
+    border-radius: 22px;
+    margin-top: 32px;
+    width: 200px;
+    margin-left: 20px;
+  }
